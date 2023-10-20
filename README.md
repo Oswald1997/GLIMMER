@@ -10,4 +10,5 @@ cat word2vec.tar.gz* | tar -xzv
 
 3. Please run `main.py` under Python3.7 to use GLIMMER for unsupervised multi-document summarization.
 
+
 Note： All of the files in this repository have been anonymized and no any identity information is included.
