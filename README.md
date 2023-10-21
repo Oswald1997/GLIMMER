@@ -5,7 +5,7 @@
 
 2. Run the following instruction to get `word2vec.txt` and put it in `resources` folder.
 ```
-cat word2vec.tar.gz* | tar -xzv
+cat word2vec.tar.gz* | tar -xzv word2vec.txt
 ```
 
 3. Please run `main.py` under Python3.7 to use GLIMMER for unsupervised multi-document summarization.
