@@ -1,6 +1,6 @@
 # GLIMMER
 
-This repository contains code for the paper 'GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization',which has been accepted by ECAI 2024.
+This repository contains code for the paper 'GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization', which has been accepted by ECAI 2024.
 
 ## Code
 
